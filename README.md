@@ -35,5 +35,5 @@ Your output should look like this:
 (ii) To return more than 10 elements you can change the limit parameter in whaleWatcher.js. See image
 
 <div align="center">
-    <img alt="parametersChangeCodeImage" src="resources/code_simple_whale-watcher.jpg"/>
+    <img alt="parametersChangeCodeImage" src="resources/code_simple_whale-watcher_.jpg"/>
 </div>
