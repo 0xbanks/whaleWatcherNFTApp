@@ -27,7 +27,7 @@ Your output should look like this:
 ## Additional Info
 ### 1. Showing where to input your API Key
 <div align="center">
-    <img alt="inputApiKeyHere" src="resources/input_api_key_here.jpg"/>
+    <img alt="inputApiKeyHere" src="resources/input_api_key_here_.jpg"/>
 </div>
 
 ### 2. Showing optional parameters you can change
