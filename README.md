@@ -6,7 +6,7 @@
 This simple app was built using the Verbwire API. The App shows you how to retrieve NFT ownership data for the top holders of a given NFT project. For more details on using the Verbwire API you can access the full API docs [here](https://docs.verbwire.com/docs)
 
 ## Requirements
-1. Make sure you have a Verbwire API Key. You can sign up for a free API key [HERE](https://www.verbwire.com/auth/register)
+1. You'll need a Verbwire API Key. You can sign up for a free API key [HERE](https://www.verbwire.com/auth/register)
 
 ## Steps to run program locally
 1. Inser your API Key in the file, whaleWatcher.js. Replace the text "YOUR API KEY GOES HERE" with your actual API key. See image in the additional section below.
